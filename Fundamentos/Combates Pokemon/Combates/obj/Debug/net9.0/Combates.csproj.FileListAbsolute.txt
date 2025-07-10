@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\bin\Debug\net9.0\Combates.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\bin\Debug\net9.0\Combates.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\bin\Debug\net9.0\Combates.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\bin\Debug\net9.0\Combates.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\bin\Debug\net9.0\Combates.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\refint\Combates.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\Combates.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Combates Pokemon\Combates\obj\Debug\net9.0\ref\Combates.dll

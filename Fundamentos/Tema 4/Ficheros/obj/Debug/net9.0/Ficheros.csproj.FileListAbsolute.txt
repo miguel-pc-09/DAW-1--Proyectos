@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\bin\Debug\net9.0\Ficheros.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\bin\Debug\net9.0\Ficheros.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\bin\Debug\net9.0\Ficheros.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\bin\Debug\net9.0\Ficheros.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\bin\Debug\net9.0\Ficheros.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\refint\Ficheros.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\Ficheros.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros\obj\Debug\net9.0\ref\Ficheros.dll

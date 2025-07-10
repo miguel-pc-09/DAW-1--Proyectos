@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\bin\Debug\net9.0\Estructuras2.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\bin\Debug\net9.0\Estructuras2.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\bin\Debug\net9.0\Estructuras2.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\bin\Debug\net9.0\Estructuras2.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\bin\Debug\net9.0\Estructuras2.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\refint\Estructuras2.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\Estructuras2.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 1\Estructuras2\Estructuras2\obj\Debug\net9.0\ref\Estructuras2.dll

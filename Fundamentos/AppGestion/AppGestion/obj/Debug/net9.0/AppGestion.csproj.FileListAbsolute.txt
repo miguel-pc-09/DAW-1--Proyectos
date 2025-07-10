@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\bin\Debug\net9.0\AppGestion.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\bin\Debug\net9.0\AppGestion.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\bin\Debug\net9.0\AppGestion.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\bin\Debug\net9.0\AppGestion.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\bin\Debug\net9.0\AppGestion.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\refint\AppGestion.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\AppGestion.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\AppGestion\AppGestion\obj\Debug\net9.0\ref\AppGestion.dll

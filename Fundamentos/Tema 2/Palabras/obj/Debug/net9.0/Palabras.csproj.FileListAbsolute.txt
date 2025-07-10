@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\bin\Debug\net9.0\Palabras.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\bin\Debug\net9.0\Palabras.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\bin\Debug\net9.0\Palabras.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\bin\Debug\net9.0\Palabras.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\bin\Debug\net9.0\Palabras.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\refint\Palabras.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\Palabras.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 2\Palabras\obj\Debug\net9.0\ref\Palabras.dll

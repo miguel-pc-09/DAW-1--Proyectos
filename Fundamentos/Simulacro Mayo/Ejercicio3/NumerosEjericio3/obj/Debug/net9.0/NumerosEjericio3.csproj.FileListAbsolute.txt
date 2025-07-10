@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\bin\Debug\net9.0\NumerosEjericio3.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\bin\Debug\net9.0\NumerosEjericio3.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\bin\Debug\net9.0\NumerosEjericio3.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\bin\Debug\net9.0\NumerosEjericio3.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\bin\Debug\net9.0\NumerosEjericio3.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\refint\NumerosEjericio3.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\NumerosEjericio3.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio3\NumerosEjericio3\obj\Debug\net9.0\ref\NumerosEjericio3.dll

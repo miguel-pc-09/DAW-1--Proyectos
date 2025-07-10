@@ -1,0 +1,4 @@
+1,jardin,podar todo el jardin,personal,True
+3,bolera,ir a jugar a los bolos con los amigos,ocio,False
+1,jardin,podar todo el jardin,personal,True
+3,bolera,ir a jugar a los bolos con los amigos,ocio,False

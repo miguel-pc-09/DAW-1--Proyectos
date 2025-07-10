@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\bin\Debug\net9.0\EjercicioArchivos.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\bin\Debug\net9.0\EjercicioArchivos.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\bin\Debug\net9.0\EjercicioArchivos.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\bin\Debug\net9.0\EjercicioArchivos.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\bin\Debug\net9.0\EjercicioArchivos.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\refint\EjercicioArchivos.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\EjercicioArchivos.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Simulacro Mayo\Ejercicio1\EjercicioArchivos\obj\Debug\net9.0\ref\EjercicioArchivos.dll

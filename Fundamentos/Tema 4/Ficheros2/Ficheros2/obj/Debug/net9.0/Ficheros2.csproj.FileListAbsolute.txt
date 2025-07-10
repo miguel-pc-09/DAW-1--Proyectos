@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\bin\Debug\net9.0\Ficheros2.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\bin\Debug\net9.0\Ficheros2.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\bin\Debug\net9.0\Ficheros2.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\bin\Debug\net9.0\Ficheros2.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\bin\Debug\net9.0\Ficheros2.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\refint\Ficheros2.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\Ficheros2.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tema 4\Ficheros2\Ficheros2\obj\Debug\net9.0\ref\Ficheros2.dll

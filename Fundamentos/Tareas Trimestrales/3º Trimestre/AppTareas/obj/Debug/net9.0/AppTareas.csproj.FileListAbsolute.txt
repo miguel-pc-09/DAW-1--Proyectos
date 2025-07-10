@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\bin\Debug\net9.0\AppTareas.exe
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\bin\Debug\net9.0\AppTareas.deps.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\bin\Debug\net9.0\AppTareas.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\bin\Debug\net9.0\AppTareas.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\bin\Debug\net9.0\AppTareas.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.sourcelink.json
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\refint\AppTareas.dll
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.pdb
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\AppTareas.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\Fundamentos\Tareas Trimestrales\3º Trimestre\AppTareas\obj\Debug\net9.0\ref\AppTareas.dll
