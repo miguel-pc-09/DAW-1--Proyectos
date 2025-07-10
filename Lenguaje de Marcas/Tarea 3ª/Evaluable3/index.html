@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!--Logo con iniciales-->
+  <div class="logo"><img src="images/logoprogra01.png" alt="Logo MAPC estilo programacion" ></div>
+    <!--Fieldset para cerrar todo el contenido del formulario-->
+    <fieldset>
+
+      <!--Un legend para poner el titulo del registro-->
+        <legend>
+          <!--Aqui elejo el color que tendra en vez de en css que tambien se podria-->
+            <h1 style="color: rgb(41, 41, 240);">Registro Usuario</h1>
+        </legend>
+
+        <!--Etiqueta formulario con la action a realizar y su id por si tengo que modificar en css-->
+        <form action="" id="formulario">
+
+          <!--input para meter el cuadro donde tendra que rellenar el usuario
+          dentro metemos el placeholder que pondra dentro en gris claro lo que debe ingresar el usuario-->  
+         <br>
+         <input type="text" name="nombre" id="nombre" placeholder="Nombre" required>  <br>
+
+          <!--Etiquetas br para hacer separaciones y no quede todo tan junto-->
+         <br>
+
+         <!--Etiqueta input para el email con requerimiento  -->
+         <input type="email" name="correo" id="correo" placeholder="Correo electrónico" required> <br>
+          
+         <br>
+
+         <!--Etiqueta input password al igual que en las anteriores un placeholder y un required-->
+         <input type="password"  id="contrasena"  placeholder="Contraseña" required> <br>
+
+         <!--Etiqieta button con un onclick para que mediante js podamos poner opciones que oculte o no la contraseña-->
+         <button type="button" id="btonContrasena" class="boton-mostrar" onclick="mostrarOcultar('contrasena', this)">Mostrar</button><br>
+
+         <br>
+
+         <!--Etiqueta password para la confirmacion de contraseña con sus etiquetas placeholder y required-->
+         <input type="password" id="confirmar"  placeholder="Confirmar contraseña" required> <br>
+
+         <!--Etiqieta button con un onclick para que mediante js podamos poner opciones que oculte o no la contraseña-->
+         <button type="button" id="btonConfirmar" class="boton-mostrar" onclick="mostrarOcultar('confirmar', this)">Mostrar</button><br>
+
+         <br>
+          <!--Button tipo submit para enviar los datos-->
+         <button type="submit" class="bton-enviar" >Registrarse</button>
+
+        </form>
+
+        <!--Teclado virtual-->
+        <div class="teclado" id="teclado">
+          <!--Los genera JS-->
+        </div>
+    </fieldset>
+
+    <!--Script al igual que con css con su href identificamos el JS-->
+    <script src="script.js"> </script>
+
+  </body>
+  </html>
+
+            
+           
+        
+            
+       
+     

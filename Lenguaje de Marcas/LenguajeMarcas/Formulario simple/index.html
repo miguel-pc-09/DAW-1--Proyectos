@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>FORMULARIO</h1>
+    <form id="formulario" action="gracias.html" method="get">
+
+        <!--Cuerpo del correo y contraseña-->
+        <fieldset>
+            <legend>
+                <span style="color: darkorange;">Registro</span>
+            </legend>
+            <label for="correo">Correo Electronico: </label><br>
+            <input type="email" id="correo" name="correo" value="" required><br>
+            
+            <label for="contraseña">Contraseña:</label><br>
+            <input type="password" name="contraseña" id="contraseña" value="" required>
+        </fieldset>
+        <!--Cuerpo de datos personales-->
+        <fieldset>
+        
+            <legend>
+            <span style="color: darkorange;">Datos Personales</span>
+        </legend>
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" value="" required><br>
+        
+        <label for="apellido1">Primer Apellido:</label><br>
+        <input type="text" id="apellido1" name="apellido1" value="" required><br>
+        
+        <label for="apellido2">Segundo Apellido:</label><br>
+        <input type="text" id="apellido2" name="apellido2" value="" required><br>
+        
+        <label for="dni">DNI:</label><br>
+        <input type="text" id="dni" name="dni" value="" required><br>
+        
+        <label for="telefono">Numero de telefono: </label><br>
+        <input type="tel" name="telefono" id="telefono" required><br><br>
+        
+        <label for="genero">Indique su sexo:</label><br>
+        
+        <input type="radio" name="genero" id="hombre" value="hombre">
+        <label for="hombre">Hombre</label><br>
+        <input type="radio" name="genero" id="mujer" value="mujer">
+        <label for="mujer">Mujer</label><br>
+        <input type="radio" name="genero" id="Otro" value="otro">
+        <label for="otro">Otro</label><br>
+        <input type="radio" name="genero" id="no" value="no">
+        <label for="no">No contesta</label><br><br>
+        
+        <label for="fecha_nacimiento">Fecha de Nacimiento: </label><br>
+        <input type="date" name="fecha_nacimiento" id="fecha_nacimiento">
+        
+    </fieldset>
+    <fieldset>
+        <legend style="color: darkorange;">Otros datos de interes</legend>
+        
+        <label for="pais">Nacionalidad</label><br>
+        <select name="pais" id="pais">
+            
+            <option value="" selected="selected">- Seleciona -</option>
+            <option value="01">España</option>
+            <option value="02">Francia</option>
+            <option value="03">Portugal</option>
+            <option value="04">Alemania</option>
+            <option value="05">Inglaterra</option>
+        </select><br><br>
+        <label for="experiencia">Experiencia Laboral</label><br>
+        <textarea name="experiencia" id="experiencia" cols="30" rows="10"></textarea><br>
+        
+        <label for="experiencia">Eduacion</label><br>
+        <textarea name="experiencia" id="experiencia" cols="30" rows="10"></textarea>
+        
+    </fieldset>
+    
+    <input type="checkbox" name="terminos" id="terminos">
+    <label for="terminos">Acepto los téminos y condiciones</label><br><br>
+    
+    <button type="submit" style="color: blue;">Enviar</button>
+    
+    
+    
+    
+    
+</form>
+</body>
+</html>

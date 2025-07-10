@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de usuario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form action="login.html" method="get">
+        
+    
+    <fieldset>
+        
+   
+    <h1>Registro de Usuario</h1>
+
+    <label for="nombre">Nombre completo:</label><br>
+    <input type="text" name="nombre" id="nombre" required><br><br>
+
+    <label for="email">Correo electrónico:</label><br>
+    <input type="email" name="email" id="email "required><br><br>
+
+    <label for="contraseña">Contraseña: </label><br>
+    <input type="password" name="contraseña" id="contraseña" minlength="8"  required><br><br>
+
+    <label for="confirmar">Confirmar contraseña:</label><br>
+    <input type="password" name="confirmar" id="confirmar" minlength="8"  required><br><br>
+
+    <label for="fecha">Fecha de nacimiento:</label><br>
+    <input type="date" name="fecha" id="fecha" required><br><br>
+
+    <label for="genero">Género:</label><br>
+    <select name="genero" id="genero" >
+        <option value="01">Masculino</option>
+        <option value="02">Femenino</option>
+        <option value="03">Otro</option>
+    </select><br><br>
+
+    <label for="pais">País de residencia:</label><br>
+    <select name="pais" id="pais" >
+        <option value="01">España</option>
+        <option value="02">Francia</option>
+        <option value="03">Portugal</option>
+        <option value="04">Argentina</option>
+        <option value="05">Inglaterra</option>
+    </select><br><br>
+
+    <div class="terminos">
+        <input type="checkbox" id="terminos" name="terminos" required>
+        <label for="terminos">Acepto los términos y condiciones</label>
+      </div>
+
+    
+    <button type="submit">enviar</button>
+</fieldset>
+</form>
+<script src="script.js"></script>
+</body>
+</html>

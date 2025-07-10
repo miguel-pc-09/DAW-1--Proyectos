@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario de Registro</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="formulario">
+    <h1>Formulario de Registro</h1>
+    <form onsubmit="mostrarMensaje(event)">
+      <input type="text" id="usuario" placeholder="Nombre de usuario">
+      <input type="email" id="correo" placeholder="Correo electrónico">
+      <input type="password" id="password" minlength="8" required placeholder="Contraseña">
+      <input type="password" id="confirmar" minlength="8" required placeholder="Confirmar contraseña">
+      <button type="submit">Registrarse</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+        
+    

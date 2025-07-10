@@ -1,0 +1,48 @@
+body{
+    background-image: url('images/PlumaTintero5.jpg');
+    background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en la página */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    font-family: 'Georgia', serif;
+    text-align: center;
+    font-size: 60px;
+    color: #c4c4a0; /* Color del texto */
+    text-shadow: 
+        -1px -1px 0 #000,
+         1px -1px 0 #000, 
+         -1px 1px 0 #000, 
+          1px 1px 0 #000;/*aplica una sombra negra*/
+    
+    
+}
+p{
+    font-family: 'Georgia', serif;
+    text-align: center;
+  color: #c4c4a0; 
+  font-size: 30px;
+  text-shadow: 
+      -1px -1px 0 #000, 
+       1px -1px 0 #000, 
+       -1px 1px 0 #000, 
+        1px 1px 0 #000;/*aplica una sombra negra*/
+  
+ 
+  
+  
+}
+#volver { 
+    display: inline-block; 
+    padding: 5px 15px; /*añade espacio dentro del boton*/
+    margin-top: 20px; 
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */ 
+    border: 2px solid #adb0b3; /* Borde gris */ 
+    border-radius: 5px; /* Bordes redondeados */ 
+    text-decoration: none; /* Quita el subrayado del enlace */ 
+    color: black; /* Color del texto */ 
+    font-weight: bold; /* Texto en negrita */ 
+    text-align: center; 
+}

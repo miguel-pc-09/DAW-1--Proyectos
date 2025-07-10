@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Registro</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body onload="alert('¡Rellene el formulario!')">
+  <form action="login.html">
+    <h1>Registro</h1>
+
+    <input type="text" id="nombre" placeholder="Nombre completo" required><br>
+    <input type="email" id="email" placeholder="Correo electrónico" required><br>
+    <input type="password" id="pass" placeholder="Contraseña" minlength="8" required><br>
+    <input type="password" id="confirmar" placeholder="Confirmar contraseña" minlength="8" required><br>
+    <input type="date" id="fecha" required><br>
+
+    <select id="genero">
+      <option>Masculino</option>
+      <option>Femenino</option>
+      <option>Otro</option>
+    </select><br>
+
+    <select id="pais" required>
+      <option>España</option>
+      <option>Francia</option>
+      <option>Portugal</option>
+      <option>Argentina</option>
+      <option>Inglaterra</option>
+    </select><br>
+
+    <label><input type="checkbox" required> Acepto términos</label><br>
+    <button type="submit">Enviar</button>
+  </form>
+</body>
+</html>

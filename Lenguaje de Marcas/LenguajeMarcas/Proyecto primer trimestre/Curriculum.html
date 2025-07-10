@@ -1,0 +1,107 @@
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulario CV</title>
+        <link rel="stylesheet" href="styles1.css">
+          
+    </head>
+    <body>
+        <h1>Formulario Currículum Vitae</h1> 
+        <form id="cvForm" action="Gracias.html" method="get">
+         
+
+            <!-- fieldset para separar las diferentes partes del curriculum -->
+            <fieldset>
+                <legend>Datos personales</legend>
+                <!-- Campo para ingresar el nombre del usuario requerido -->
+                <label for="nombre">Nombre:</label><br> 
+                <input type="text" id="nombre" name="nombre" value="" required><br>
+
+                <!-- campo para ingresar los apellidos requerido -->
+                <label for="apellidos">Apellidos:</label><br>
+                <input type="text" id="apellido" name="apellido" value="" required><br>
+
+                <!-- campo para escribir el dni -->
+                <label for="dni">DNI:</label><br>
+                <input type="text" id="dni" name="dni" value="" size="10" maxlength="9"><br><br>
+
+                <!-- campo para ingresar el sexo mediante un check -->
+                <label for="genero">Sexo:</label><br>
+                <input type="radio" id="hombre" name="genero" value="hombre" >
+                <label for="Hombre">Hombre</label><br>
+                <input type="radio" name="genero" value="mujer" checked="checked">
+                <label for="mujer">Mujer</label><br>
+                <input type="radio" name="genero" value="no contesta" checked="checked">
+                <label for="noContesta">Prefiero no contestar</label>
+                <br><br>
+
+                <!-- campo para ingresar la fecha de nacimiento requerido -->
+                <label for="fecha_nacimiento">Fecha de Nacimiento:</label><br>
+                <input type="date" id="fecha_nacimiento" name="fecha_nacimiento" required><br><br>
+
+                <!-- campo para escribir el numero de telefono con maximo de numeros y requerido -->
+                <label for="telefono">Número de Teléfono:</label><br>
+                <input type="tel" id="telefono" name="telefono" maxlength="10" required=""><br><br>
+
+                <!-- campo para escribir el correo electronico requerido -->
+                <label for="email">Correo Electrónico:</label><br> 
+                <input type="email" id="email" name="email" required><br><br>
+            </fieldset>
+
+            <fieldset>
+                <legend>Datos de interes</legend>
+                <!-- campo para describir la experiencia laboral con cuadro con un maximo de filas y columnas -->
+                <label for="experiencia">Experiencia Laboral:</label><br>
+                <textarea id="experiencia" name="experiencia" rows="10" cols="40"></textarea><br><br>
+
+                <!-- textarea--nos limpitara en un area un cuadro para poder escribir -->
+                <!-- con los atributos rows y cols limitaremos al número de columnas y filas el texto a escribir -->
+                <!-- campo al igual que experiencia pero esta vez que describa la educación -->
+                <label for="educacion">Educación:</label><br>
+                <textarea id="educacion" name="educacion" rows="10" cols="40"></textarea><br><br>
+
+
+                <!-- campo para poder elegir el idioma mediante seleción de opción -->
+                <label for="Idioma">Idioma preferido</label><br>
+                <select id="idioma" name="idioma">
+                    <option value="" selected="selected">- Selecione -</option>
+
+                    <option value="01">Español</option>
+                    <option value="02">Frances</option>
+                    <option value="03">Ingles</option>
+                    <option value="04">Aleman</option>   
+                </select>
+            </fieldset>
+
+
+
+            <br>
+
+            <fieldset> 
+                <!-- campo para información de contacto de emergencia -->
+                <legend>Información de Contacto de Emergencia</legend><br>
+                <label for="nombre_contacto">Nombre de contacto de emergencia:</label>
+                <input type="text" id="nombre_contacto" name="nombre_contacto" value="" required><br>
+                <br>
+                
+
+                <label for="telefono">Teléfono de contacto de emergencia:</label>
+                <input type="tel" id="telefono_emergencia" name="telefono_emergencia" maxlength="10"><br>
+                <br>
+
+                <label for="relacion">Relación con el contacto de emergencia:</label>
+                <input type="text" id="relacion" name="relacion" value="">
+            </fieldset>  
+
+            <!-- finalizaremos con un checkbox para que el usuario acepte los terminos y 3 botones de acción para: guardar, borrar datos, y enviar -->
+            <label>
+                <input type="checkbox" id="terminos" name="terminos" required>
+                Acepto los términos y condiciones
+            </label>
+            <button type="submit" value="Enviar">Enviar</button>
+
+            
+        </form>
+    </body>
+</html>

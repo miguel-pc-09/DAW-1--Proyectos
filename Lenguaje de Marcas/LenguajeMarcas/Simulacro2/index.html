@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="contenedor">
+  <h2>Formulario de Ejemplo</h2>
+  <form onsubmit="enviar(event)" onreset="resetear()">
+
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" required><br>
+
+    <label for="email">Correo electrónico:</label>
+    <input type="email" required><br>
+
+    <label for="edad">Edad:</label>
+    <input type="number" required><br>
+
+    <label for="sexo">Sexo:
+      <select>
+        <option>Masculino</option>
+        <option>Femenino</option>
+        <option>Otro</option>
+      </select>
+    </label><br>
+
+    <label for="comentario">Comentarios:</label><br>
+    <textarea id="comentario" name="comentario" rows="5" cols="50"></textarea>
+
+    <p>Estado Civil:</p>
+    <div class="estado-civil">
+        <label for="soltero">Soltero</label>
+        <input type="radio" name="estado" value="Soltero"><br>
+
+        <label for="casado">Casado</label>
+        <input type="radio" name="estado" value="Casado"> <br>
+
+        <label for="divorciado">Divorciado</label>
+        <input type="radio" name="estado" value="Divorciado"> 
+    </div><br>
+
+    <label>Fecha de Nacimiento:</label><br>
+    <input type="date"><br><br>
+
+    <label>Cargar Archivo:</label>
+    <input type="file">
+    
+    <br><br>
+    <div class="botones">
+      <button type="reset">Restablecer Formulario</button>
+      <button type="submit">Enviar</button>
+    </div>
+  </form>
+
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>

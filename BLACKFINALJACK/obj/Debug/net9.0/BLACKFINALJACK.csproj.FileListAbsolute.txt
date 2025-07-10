@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\bin\Debug\net9.0\BLACKFINALJACK.exe
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\bin\Debug\net9.0\BLACKFINALJACK.deps.json
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\bin\Debug\net9.0\BLACKFINALJACK.runtimeconfig.json
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\bin\Debug\net9.0\BLACKFINALJACK.dll
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\bin\Debug\net9.0\BLACKFINALJACK.pdb
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.AssemblyInfo.cs
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.sourcelink.json
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.dll
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\refint\BLACKFINALJACK.dll
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.pdb
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\BLACKFINALJACK.genruntimeconfig.cache
+C:\Users\migue\Documents\GitHub\BLACKFINALJACK\obj\Debug\net9.0\ref\BLACKFINALJACK.dll

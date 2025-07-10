@@ -1,0 +1,104 @@
+
+/*Ajustes o estilos del cuadro del formulario*/
+fieldset{
+    background-color: rgb(152, 224, 228);         /* Fondo celeste */
+    border: 5px solid rgb(58, 163, 170);          /* Borde celeste oscuro */
+    border-radius: 10px;                            /* Bordes redondeados */
+    max-width: 400px;                               /* Ancho máximo */
+    margin: auto;                                   /* Centrado horizontal */
+    padding: 40px;                                  /* Espaciado interior */
+    text-align: center;                             /* Centra el contenido */
+
+
+    
+}
+
+/*Fondo General */
+body{
+    
+    background-image: url(images/agua\ clara.webp); /* Imagen de fondo */
+    background-size: cover;                         /* La imagen cubre toda la pantalla */
+    background-position: center;                    /* Centrada horizontal y vertical */
+    background-repeat: no-repeat;                   /* No se repite */
+    font-family: Arial, Helvetica, sans-serif;      /* Fuente del texto */
+
+}
+html, body {
+    height: 100%;                                   /* Ocupan toda la pantalla */
+    margin: 0;
+    padding: 0;
+    display: flex;                                  /* Uso de flexbox */
+    justify-content: center;                        /* Centrado horizontal */
+    align-items: center;                            /* Centrado vertical */
+    flex-direction: column;                         /* apila el logo con el formulario */
+  }
+  
+
+/*Titulo */
+h1{
+    color: rgb(41, 41, 240);                      /* Tono de color azul */
+    text-shadow: 2px 2px 4px coral;               /* Sombra para hacerlo mas bonito */
+}
+
+/* Logo */
+.logo img {
+    width: 260px;                                  /* Tamaño del logo */
+    display: block;                                /* Ocupa toda la linea*/
+    margin: 0 auto;                                /* Centra el logo*/
+}
+
+
+/* Inputs de texto */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 80%;                                      /* Ocupan el 80% del ancho disponible */
+  padding: 12px;                                   /* Relleno interior */
+  margin-top: 5px;                                 /* Separación entre campos */
+  border: 1px solid #ccc;                        /* Borde gris claro */
+  border-radius: 6px;                              /* Bordes redondeados */
+  font-size: 16px;                                 /* Tamaño de letra */
+}
+
+
+/* Botón mostrar/ocultar contraseña */
+.boton-mostrar {
+    display: inline-block;                         /* Aparecen en línea */
+    background-color: rgb(58, 163, 170);         /* Color de fondo similar al borde del formulario */
+    color: black;                                /* Texto en negro */
+    padding: 6px 12px;                             /* Espaciado interior */
+    border: none;                                  /* Sin bordes */
+    border-radius: 6px;                            /* Bordes redondeados */
+    cursor: pointer;                               /* Cambia a mano al pasar el cursor */
+  }
+
+/* Botón de enviar */
+.bton-enviar {
+    background-color: rgb(58, 163, 170);         /* Mismo color que los otros botones */
+    color: white;                                /* Texto blanco */
+    padding: 10px 30px;                            /* Tamaño del botón */
+    border: none;                                  /* Sin bordes */
+    font-size: 16px;                               /* Tamaño del texto */
+    border-radius: 6px;                            /* Bordes redondeados */
+    cursor: pointer;                               /* Cursor tipo mano */
+  }
+
+/* Teclado virtual */
+.teclado {
+    margin-top: 20px;                              /* Espacio encima del teclado */
+    display: flex;                                 /* Flexbox para alinear teclas */
+    flex-wrap: wrap;                               /* Que las teclas bajen a la siguiente fila */
+    justify-content: center;                       /* Centrado del teclado */
+    gap: 5px;                                      /*Espacio para las teclas */
+  }
+
+ .tecla {
+    padding: 10px 15px;                            /* Tamaño del botón */
+    background-color: rgb(58, 163, 170);         /* Mismo color que botones del formulario */
+    color: white;                                /* Texto blanco */
+    font-weight: bold;                             /* Texto en negrita */
+    border: none;                                  /* Sin borde */
+    border-radius: 4px;                            /* Bordes redondeados */
+    cursor: pointer;                               /* Cursor tipo mano */
+    font-size: 16px;                               /* Tamaño del texto */
+  }

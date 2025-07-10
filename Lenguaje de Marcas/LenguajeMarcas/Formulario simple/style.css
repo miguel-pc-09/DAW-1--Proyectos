@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;/*Para el color del fondo*/
+    background-position: center;/*Para centrar en caso de poner imagen*/
+    font-family: arial, sans-serif;/*Tipo de letra del documento*/
+}
+form{
+    max-width: 400px;/*Ajusta el formulario a un tamaño*/
+    margin:0 auto ;/*Ajusta al centro el formulario*/
+    padding: 15px;
+    border: 3px black;/*Estos tres ajustamos los bordes y el color interior del formulario*/
+    border-radius: 5px;
+    background-color: beige;
+}
+button:hover{
+    background-color: chartreuse;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

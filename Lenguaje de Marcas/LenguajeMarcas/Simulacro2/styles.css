@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: white; /* Fondo de toda la página blanco */
+}
+
+.contenedor {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f5f5f5;  /* gris claro del contenedor */
+  border: 1px solid #ccc;     /* borde gris claro */
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1); /* opcional */
+}
+
+.contenedor h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+form {
+  background-color: white; /* el formulario en sí, blanco */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"],
+input[type="file"],
+select,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+button[type="reset"],
+button[type="submit"] {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+button[type="reset"] {
+  background-color: #e74c3c;
+  margin-right: 10px;
+}
+
+button[type="submit"] {
+  background-color: #2ecc71;
+}
+
+.botones {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}

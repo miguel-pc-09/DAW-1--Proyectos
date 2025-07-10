@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="contenedor">
+    <h2>Formulario de Ejemplo</h2>
+
+    <form>
+      <label>Nombre:<br><input type="text" required></label><br>
+      <label>Correo electrónico:<br><input type="email" required></label><br>
+      <label>Edad:<br><input type="number" required></label><br>
+
+      <label>Sexo:<br>
+        <select>
+          <option>Masculino</option>
+          <option>Femenino</option>
+          <option>Otro</option>
+        </select>
+      </label><br>
+
+      <label>Comentarios:<br>
+        <textarea rows="4"></textarea>
+      </label><br>
+
+      <p>Estado Civil:</p>
+      <label><input type="radio" name="estado"> Soltero</label><br>
+      <label><input type="radio" name="estado"> Casado</label><br>
+      <label><input type="radio" name="estado"> Divorciado</label><br><br>
+
+      <label>Fecha de nacimiento:<br><input type="date"></label><br><br>
+
+      <label>Cargar archivo:<br><input type="file"></label><br><br>
+
+      <button type="reset">Restablecer</button>
+      <button type="submit">Enviar</button>
+    </form>
+  </div>
+
+</body>
+</html>

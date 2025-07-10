@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    font-weight: bold; /*letras de los label y todo el formulario en negrita, si solo quiero los label separar en un label{font-weight: bold;}*/
+    background-position: center;
+    padding: 20px;
+}
+form{
+    max-width: 600px; /*Ajusta el formulario a un tamaño*/
+    margin: 0 auto; /*centra el formulario*/
+    padding: 15px;
+    border: 3px black;
+    border-radius: 5px;
+    display: flex;          /* Activa el modelo de caja flexible */
+    justify-content: center; /* Centra el formulario en el eje horizontal */
+}
+fieldset{
+    width: 100%;  /* Ocupa todo el ancho disponible dentro del form */
+    padding: 20px; /* Espacio interno entre el borde y el contenido */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0, 0.05);
+    align-content: center;
+    border: 5px solid #ccc; /*añade borde gris*/
+}
+input,select{
+    width: 100%;   /*Estira los input y select hasta el final*/
+    border-radius: 6px;
+    border: solid #ccc;
+    box-sizing: border-box;
+    padding: 8px;   /*grosor de los input*/
+}
+
+button[type="submit"]{
+    background-color: greenyellow;
+    border-radius: 3px;
+    width: 100%;    /*Boton lo alarga todo el formulario*/
+    
+}
+h1{
+    text-align: center;
+}
