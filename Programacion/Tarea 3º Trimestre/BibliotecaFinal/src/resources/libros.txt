@@ -1,0 +1,5 @@
+Título: It, Autor: Stephen King, Páginas: 303, ISBN: 23, Calificación: 18
+Título: Harry Potter, Autor: JK Rowling, Páginas: 245, ISBN: 11, Tipo de fantasía: juvenil
+Título: Ola de calor, Autor: Richard, Páginas: 456, ISBN: 1, Trama: misterio
+Título: Friends, Autor: Noneç, Páginas: 334, ISBN: 3, Tipo de humor: romantico
+Título: El cuervo, Autor: Edgar Allan Poe, Páginas: 600, ISBN: 10, Calificación: 16
