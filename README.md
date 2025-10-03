@@ -62,9 +62,12 @@ Este repositorio agrupa todos los proyectos desarrollados durante el primer curs
 ## 🔗 Repositorio Personal
 
 Desarrollado por **Miguel Ángel Perucha Castelló**  
-📧 [m.peruchacastello@gmail.com](mailto:m.peruchacastello@gmail.com)  
-📎 [GitHub](https://github.com/miguel-pc-09)
-
+- 📧 [m.peruchacastello@gmail.com](mailto:m.peruchacastello@gmail.com)
+- 🐙 [GitHub](https://github.com/miguel-pc-09)
+- <a href="https://www.linkedin.com/in/miguel-ángel-perucha-castelló" target="_blank">
+    <img src="./assets/linkedin-icon-24.png" alt="LinkedIn" width="18" height="18" />
+    &nbsp;LinkedIn
+  </a>
 ---
 
 ### 📌 Nota
